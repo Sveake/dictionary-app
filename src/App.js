@@ -11,7 +11,7 @@ ENEKE 2021
         <main>
           <Dictionary />
         </main>
-       <footer className="App-footer"> <small>Coded by Svea Lillepalu</small></footer>
+       <footer className="App-footer"> <small>Coded by Svea Lillepalu, check out my <a href="https://github.com/Sveake/dictionary-app" target="_blank" rel="noopener noreferrer">Git repository</a></small></footer>
        </div>
     </div>
   );
