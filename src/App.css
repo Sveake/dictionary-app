@@ -2,3 +2,13 @@
     text-align: center;
     margin: 25px 0;
 }
+
+.App-header {
+    text-align: center;
+    margin: 25px 0;
+    font-size: 25px;
+    color: #273B6C;
+    padding: 15px 0;
+    border: 2px solid #D9D6CE;
+    border-radius: 20px;
+}
