@@ -1,3 +1,8 @@
+.app {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
 .App-footer {
     text-align: center;
     margin: 25px 0;
